@@ -1,1 +1,1 @@
-# Heakthcare-SQL-Project
+# Heathcare-SQL-Project
